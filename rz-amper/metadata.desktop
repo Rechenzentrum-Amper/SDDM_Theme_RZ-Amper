@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=RZ-Amper
+Description=SDDM Theme RZ-Amper
+Author=Waldemar Schroeer
+Copyright=(c) 2020, Waldemar Schroeer
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/Rechenzentrum-Amper/SDDM_Theme_RZ-Amper
+Screenshot=screenshot.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=info@rz-amper.de
+Theme-Id=RZ-Amper
+Theme-API=2.0
